@@ -1,0 +1,2 @@
+# twrp_device_duoqin_f22
+twrp_device_duoqin_f22
